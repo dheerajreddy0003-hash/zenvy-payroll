@@ -92,5 +92,4 @@ npm start
 ---
 
 ## Compliance
-This project fully complies with the **ZENVY – FULLSTACK** requirements and is suitable
-for HR and Technical Lead evaluation.
+This project fully complies with the **ZENVY – FULLSTACK** 
